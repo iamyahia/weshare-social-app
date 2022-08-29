@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">weShare</string>
+    <string name="facebook_app_id">580381247075694</string>
+    <string name="fb_login_protocol_scheme">fb580381247075694</string>
+    <string name="facebook_client_token">c82f93e1cc25867bdfddc87fbbc24394</string>
+
+
+</resources>
