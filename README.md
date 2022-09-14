@@ -1,4 +1,4 @@
-# we-Share-social-app---react-native
+# we-Share social app
 this is incompleted react native project, andjust  a few comopnent does not compleated
 
 
